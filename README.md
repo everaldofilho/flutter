@@ -34,4 +34,6 @@
     </tr>
 </table>
 
+## Project 4 - ["Shop"](./shop/)
+
 ...
